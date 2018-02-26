@@ -1,0 +1,106 @@
+{
+  "Event": {
+    "Date": "21-04-2018"
+  },
+  "Location": {
+    "Name": "Wellington",
+    "Latitude": -41.2884465,
+    "Longitude": 174.77447510000002,
+    "Address": "Clifton Wellington, Level 28, 100 Willis Street, Wellington, 6011 "
+  },
+  "Social": {
+    "Meetup": "https://www.meetup.com/Wellington-Windows-Infrastructure-User-Group/",
+    
+  },
+  "Callout": {
+    "Text": "RSVP Today ",
+    "Link": "https://www.eventbrite.com/e/global-azure-bootcamp-wellington-tickets-43304431721?ref=estw",
+    "Type": "default"
+  },
+  "Organizers": [
+    {
+      "Name": "Deepak Maheshwari",
+      "Social": {
+        "Email": "deepak.maheshwari@hotmail.com"
+      }
+    },
+    {
+      "Name": "",
+      "Social": {
+        "Email": ""
+      }
+    },
+    {
+      "Name": "",
+      "Social": {
+        "Email": ""
+      }
+    },
+    {
+      "Name": "",
+      "Social": {
+        "Email": ""
+      }
+    },
+    {
+      "Name": "",
+      "Social": {
+        "Email": ""
+      }
+    }
+  ],
+  "Sponsors": [
+
+  ],
+  "Prizes": [
+    
+    
+  ],
+  "Tracks": [
+    {
+      "Name": "Azure IaaS",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Welcome & Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:30 AM - 10:30 AM",
+          "Title": "Session1",
+          "Room": "TBA",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "TBA",
+            "Description": "",
+            "ImageUrl": ""
+          }
+        },
+        
+        {
+          "SessionId": "Closing",
+          "Time": "4:30 PM - 5:00 PM",
+          "Title": "Closing & Lucky Draw"
+        }
+      ]
+    },
+    {
+      "Name": "Azure PaaS",
+      "Sessions": [
+        {
+          "SessionId": "TBA",
+          "Time": "TBA",
+          "Title": "Registration"
+        },
+        
+        {
+          "SessionId": "Common6",
+          "Time": "4:30 PM - 5:00 PM",
+          "Title": "Closing & Lucky Draw"
+        }
+
+      ]
+    }
+  ]
+}

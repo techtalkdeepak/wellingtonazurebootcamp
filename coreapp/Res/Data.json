@@ -45,7 +45,7 @@
         {
           "SessionId": "Common2",
           "Time": "9:30 AM - 10:30 AM",
-          "Title": "Session1",
+          "Title": "TBA",
           "Room": "TBA",
           "Speaker": {
             "Name": "TBA",
@@ -65,11 +65,6 @@
     {
       "Name": "Azure PaaS",
       "Sessions": [
-        {
-          "SessionId": "TBA",
-          "Time": "TBA",
-          "Title": "Registration"
-        },
         
         {
           "SessionId": "Common6",

@@ -1,0 +1,22 @@
+C:\wellingtonazurebootcamp\coreapp\coreapp
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=coreapp
+--content-root=C:\wellingtonazurebootcamp\coreapp\coreapp
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Home\Index.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Home\Verify.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\Error.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Agenda.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Contact.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Layout.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_LayoutLocations.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Map.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Organizers.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Prizes.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_SessionDetails.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_SessionSpeaker.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Social.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Speakers.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_Sponsors.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\_ViewImports.cshtml
+--file=C:\wellingtonazurebootcamp\coreapp\coreapp\Views\_ViewStart.cshtml

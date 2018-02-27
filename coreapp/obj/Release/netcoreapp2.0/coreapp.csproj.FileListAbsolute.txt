@@ -1,0 +1,11 @@
+C:\wellingtonazurebootcamp\coreapp\coreapp\bin\Release\netcoreapp2.0\coreapp.deps.json
+C:\wellingtonazurebootcamp\coreapp\coreapp\bin\Release\netcoreapp2.0\coreapp.runtimeconfig.json
+C:\wellingtonazurebootcamp\coreapp\coreapp\bin\Release\netcoreapp2.0\coreapp.runtimeconfig.dev.json
+C:\wellingtonazurebootcamp\coreapp\coreapp\bin\Release\netcoreapp2.0\coreapp.dll
+C:\wellingtonazurebootcamp\coreapp\coreapp\bin\Release\netcoreapp2.0\coreapp.pdb
+C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Release\netcoreapp2.0\coreapp.csprojResolveAssemblyReference.cache
+C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Release\netcoreapp2.0\coreapp.csproj.CoreCompileInputs.cache
+C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Release\netcoreapp2.0\coreapp.AssemblyInfoInputs.cache
+C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Release\netcoreapp2.0\coreapp.AssemblyInfo.cs
+C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Release\netcoreapp2.0\coreapp.dll
+C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Release\netcoreapp2.0\coreapp.pdb

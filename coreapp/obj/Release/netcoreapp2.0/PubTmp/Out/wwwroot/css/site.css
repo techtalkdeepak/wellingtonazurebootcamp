@@ -48,6 +48,8 @@ h6,
     color: #666666;
 }
 
+
+
 header .navbar-default {
     background: none;
     border: none;
@@ -1298,4 +1300,9 @@ form .form-control:focus {
 h1.sponsor {
     color: cadetblue;
     text-decoration: dotted;
+}
+header {
+    /*background-image:url();
+    background-image: url('../images/background.png');*/
+    background-image: url('../images/background.jpg');
 }

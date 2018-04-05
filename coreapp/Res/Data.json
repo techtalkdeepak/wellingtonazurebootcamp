@@ -14,7 +14,7 @@
   },
   "Callout": {
     "Text": "RSVP Today ",
-    "Link": "https://www.eventbrite.com/e/global-azure-bootcamp-wellington-tickets-43304431721?ref=estw",
+    "Link": "https://aka.ms/AzureBootcampWLG18",
     "Type": "default"
   },
   "Organizers": [
@@ -23,31 +23,8 @@
       "Social": {
         "Email": "deepak.maheshwari@hotmail.com"
       }
-    },
-    {
-      "Name": "",
-      "Social": {
-        "Email": ""
-      }
-    },
-    {
-      "Name": "",
-      "Social": {
-        "Email": ""
-      }
-    },
-    {
-      "Name": "",
-      "Social": {
-        "Email": ""
-      }
-    },
-    {
-      "Name": "",
-      "Social": {
-        "Email": ""
-      }
     }
+    
   ],
   "Sponsors": [
 
@@ -62,19 +39,20 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 9:30 AM",
+          "Time": "9:00 AM - 10:00 AM",
           "Title": "Welcome & Registration"
         },
         {
-          "SessionId": "Common2",
-          "Time": "9:30 AM - 10:30 AM",
-          "Title": "Session1",
+          "SessionId": "Getting started with Azure (HOL)",
+          "Time": "10:00 AM - 11:30 AM",
+          "Title": "Getting started with Azure (HOL)",
           "Room": "TBA",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "TBA",
+            "Name": "Zahid Yaqub",
+            "Organization": "Datacom",
             "Description": "",
             "ImageUrl": ""
+            "LinkedIn" : "https://www.linkedin.com/in/zahid-yaqub-mct-mcts-mcse-mcitp-itil-472565a/"
           }
         },
         
@@ -88,11 +66,6 @@
     {
       "Name": "Azure PaaS",
       "Sessions": [
-        {
-          "SessionId": "TBA",
-          "Time": "TBA",
-          "Title": "Registration"
-        },
         
         {
           "SessionId": "Common6",

@@ -39,19 +39,20 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 9:30 AM",
+          "Time": "9:00 AM - 10:00 AM",
           "Title": "Welcome & Registration"
         },
         {
-          "SessionId": "Common2",
-          "Time": "9:30 AM - 10:30 AM",
-          "Title": "TBA",
+          "SessionId": "Getting started with Azure (HOL)",
+          "Time": "10:00 AM - 11:30 AM",
+          "Title": "Getting started with Azure (HOL)",
           "Room": "TBA",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "TBA",
-            "Description": "",
+            "Name": "Zahid Yaqub",
+            "Organization": "Datacom",
+            "Description": "Speaker’s Bio	I have been working in IT industry for 11 years overall, 4 years in New Zealand and currently working in Datacom for 3 years as an Infrastructure Consultant. My expertise are in on-premises and cloud platforms, products and services which includes System Center, Virtualization, Messaging and Azure. I am also  Microsoft Certified trainer",
             "ImageUrl": ""
+            "LinkedIn": "https://www.linkedin.com/in/zahid-yaqub-mct-mcts-mcse-mcitp-itil-472565a/"
           }
         },
         

@@ -41,7 +41,7 @@
     {
       "ImageUrl": "/images/AzurePass.jpg",
       "Link": "#",
-      "Name": "$300 in Azure Credit"
+      "Name": " Azure Credit"
     },
     {
       "ImageUrl": "/images/AzureLogo.png",
@@ -229,14 +229,14 @@
           "Title": "Backup & DR in Azure",
           "Room": "",
           "Speaker": {
-            "Name": "Zahid Yaqub",
-            "Organization": "Datacom",
-            "Description": "I have been working in IT industry for 11 years overall, 4 years in New Zealand and currently working in Datacom for 3 years as an Infrastructure Consultant. My expertise are in on-premises and cloud platforms, products and services which includes System Center, Virtualization, Messaging and Azure. I am also  Microsoft Certified trainer. ",
-            "ImageUrl": "/images/Zahid.jpg",
+            "Name": "Deepak Maheshwari",
+            "Organization": "Microsoft MVP / Intergen",
+            "Description": "Deepak is an Microsoft Azure MVP ",
+            "ImageUrl": "/images/Deepak.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": "https://www.linkedin.com/in/zahid-yaqub-mct-mcts-mcse-mcitp-itil-472565a/"
+              "Twitter": "https://twitter.com/IM_DeepakM",
+              "Website": "techtalk.cloud",
+              "LinkedIn": "https://www.linkedin.com/in/deepak-maheshwari/"
             }
           }
         },

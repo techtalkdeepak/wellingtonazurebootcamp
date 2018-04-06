@@ -8,3 +8,14 @@ C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Debug\netcoreapp2.0\coreapp.Assem
 C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Debug\netcoreapp2.0\coreapp.AssemblyInfo.cs
 C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Debug\netcoreapp2.0\coreapp.dll
 C:\wellingtonazurebootcamp\coreapp\coreapp\obj\Debug\netcoreapp2.0\coreapp.pdb
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\bin\Debug\netcoreapp2.0\coreapp.deps.json
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\bin\Debug\netcoreapp2.0\coreapp.runtimeconfig.json
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\bin\Debug\netcoreapp2.0\coreapp.runtimeconfig.dev.json
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\bin\Debug\netcoreapp2.0\coreapp.dll
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\bin\Debug\netcoreapp2.0\coreapp.pdb
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\obj\Debug\netcoreapp2.0\coreapp.csproj.CoreCompileInputs.cache
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\obj\Debug\netcoreapp2.0\coreapp.AssemblyInfoInputs.cache
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\obj\Debug\netcoreapp2.0\coreapp.AssemblyInfo.cs
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\obj\Debug\netcoreapp2.0\coreapp.dll
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\obj\Debug\netcoreapp2.0\coreapp.pdb
+C:\NewAzureBootcamp\wellingtonazurebootcamp\coreapp\obj\Debug\netcoreapp2.0\coreapp.csprojResolveAssemblyReference.cache

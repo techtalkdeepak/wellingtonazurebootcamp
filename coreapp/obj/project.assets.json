@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\NewAzureBootcamp\\wellingtonazurebootcamp\\coreapp\\coreapp.csproj",
+      "projectUniqueName": "C:\\NewAzureBootcamp\\wellingtonazurebootcamp\\coreapp\\coreapp.csproj",
       "projectName": "coreapp",
-      "projectPath": "c:\\NewAzureBootcamp\\wellingtonazurebootcamp\\coreapp\\coreapp.csproj",
+      "projectPath": "C:\\NewAzureBootcamp\\wellingtonazurebootcamp\\coreapp\\coreapp.csproj",
       "packagesPath": "C:\\Users\\deepakm\\.nuget\\packages\\",
-      "outputPath": "c:\\NewAzureBootcamp\\wellingtonazurebootcamp\\coreapp\\obj\\",
+      "outputPath": "C:\\NewAzureBootcamp\\wellingtonazurebootcamp\\coreapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

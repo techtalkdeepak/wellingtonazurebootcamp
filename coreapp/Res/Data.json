@@ -6,74 +6,268 @@
     "Name": "Wellington",
     "Latitude": -41.2884465,
     "Longitude": 174.77447510000002,
-    "Address": "Clifton Wellington, Level 28, 100 Willis Street, Wellington, 6011 "
+    "Address": "Clifton Wellington, Level 28, 100 Willis Street, Wellington, 6011"
   },
   "Social": {
-    "Meetup": "https://www.meetup.com/Wellington-Windows-Infrastructure-User-Group/"
-    
+    //"Meetup": "https://global.azurebootcamp.net/",
+    "GAB": "https://wellington.azurebootcamp.net/",
+    "Meetup": "https://www.meetup.com/Wellington-Windows-Infrastructure-User-Group/",
+    "Twitter":  "https://twitter.com/hashtag/GlobalAzure"
   },
   "Callout": {
-    "Text": "RSVP Today ",
+    "Text": "Click Here to Reserve Your Place Today!",
     "Link": "https://aka.ms/AzureBootcampWLG18",
     "Type": "default"
   },
   "Organizers": [
     {
       "Name": "Deepak Maheshwari",
+      "ImageUrl": "/images/deepak.jpg",
+      
       "Social": {
-        "Email": "deepak.maheshwari@hotmail.com"
+        "Twitter": "https://twitter.com/IM_DeepakM",
+        "LinkedIn": "https://www.linkedin.com/in/deepak-maheshwari/",
+        "Website": "https://www.meetup.com/Wellington-Windows-Infrastructure-User-Group/"
       }
     }
     
   ],
   "Sponsors": [
+    {
 
+    }
   ],
   "Prizes": [
-    
-    
+    {
+      "ImageUrl": "/images/AzurePass.jpg",
+      "Link": "#",
+      "Name": "$300 in Azure Credit"
+    },
+    {
+      "ImageUrl": "/images/AzureLogo.png",
+      "Link": "#",
+      "Name": "T-shirts, stickers and more!"
+    }
   ],
+
   "Tracks": [
     {
-      "Name": "Azure IaaS",
+      "Name": "PaaS Track",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "Welcome & Registration"
+          "Time": "9:00 AM - 10.00 AM",
+          "Title": "Registration / Welcome / Set Up"
+        },
+
+        {
+          "SessionId": "DEV1",
+          "Time": "10:00 AM - 11:30 AM",
+          "Title": "Getting started with Web Apps in Azure (HOL)",
+          "Room": "In this session you will learn about creating a Website using Visual Studio 2017 and Azure SQL Database back-end and publishing and running the website on Azure.",         
+          "Speaker": {
+            "Name": "Anupama Natarajan",
+            "Organization": "Microsoft MVP / Unisys",
+            "Description": "I am a Software Professional with over 15 years’ experience in designing and developing Web, Data Warehouse, Business Intelligence and Mobile solutions. I am a Microsoft Certified Trainer (MCT), Microsoft MVP and passionate in sharing knowledge. I love solving complex business problems for my clients with innovative solutions using Microsoft Technologies and use that experience in my trainings.I do speak at Conferences, User Group sessions and run training sessions on variety of Design and Delivery related topics.",
+            "ImageUrl": "/images/Anupama.jpg",
+            "Social": {
+              "Twitter": "",
+              "LinkedIn": "https://www.linkedin.com/in/anupama-natarajan-516a107/"
+            }
+          }
         },
         {
-          "SessionId": "Getting started with Azure (HOL)",
-          "Time": "10:00 AM - 11:30 AM",
-          "Title": "Getting started with Azure (HOL)",
-          "Room": "TBA",
+          "SessionId": "DEV2",
+          "Time": "11:30 AM - 12:30 PM",
+          "Title": "Getting started with DevOps in Azure",
+          "Room": "",
           "Speaker": {
-            "Name": "Zahid Yaqub",
-            "Organization": "Datacom",
+            "Name": "Edwin Ashdown",
+            "Organization": "Westpac",
             "Description": "",
-            "ImageUrl": ""
-            "LinkedIn" : "https://www.linkedin.com/in/zahid-yaqub-mct-mcts-mcse-mcitp-itil-472565a/"
+            "ImageUrl": "/images/Edwin.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "LinkedIn": "https://www.linkedin.com/in/edwinashdown/"
+            }
           }
         },
         
         {
-          "SessionId": "Closing",
+          "SessionId": "Common4",
+          "Time": "12:30 PM - 1:30 PM",
+          "Title": "Lunch & Ask the Expert"
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "1:30 PM - 2:30 PM",
+          "Title": "Serverless Application on Azure",
+          "Room": "This session will warm up with a discussion covering some key concepts areound Serverless application with Azure - Logic Apps, Functions & Event Grid",
+          "Speaker": {
+            "Name": "Thomas Vercoutre",
+            "Organization": "Intergen",
+            "Description": "I have been developing for 10 years. I am working on Cloud solution as a senior developer at Intergen for 3 years and feel excited about all these new challenges. ",
+            "ImageUrl": "/images/Thomas.jpg",
+            "Social": {
+              "Twitter": "",
+              "LinkedIn": "http://www.linkedin.com/in/thomasvercoutre"
+            }
+          }
+        },
+
+        {
+            "SessionId": "DEV5",
+            "Time": "2:30 PM - 3:30 PM",
+            "Title": "Database options in Azure which one to choose from",
+            "Room": "This session will cover an introduction to Functions-As-A-Service offerings in Azure. We will take you through quickly building and deploying a web API using Azure Functions and CosmosDB and also give a quick demo on Event Driven Architecture with Functions and Azure Service Bus.",
+            "Speaker": {
+              "Name": "Anupama Natarajan",
+              "Organization": "Unisys",
+              "Description": "I am a Software Professional with over 15 years’ experience in designing and developing Web, Data Warehouse, Business Intelligence and Mobile solutions. I am a Microsoft Certified Trainer (MCT), Microsoft MVP and passionate in sharing knowledge. I love solving complex business problems for my clients with innovative solutions using Microsoft Technologies and use that experience in my trainings.I do speak at Conferences, User Group sessions and run training sessions on variety of Design and Delivery related topics.",
+              "ImageUrl": "/images/Anupama.jpg",
+              "Social": {
+                "Twitter": "",
+                "LinkedIn": "https://www.linkedin.com/in/anupama-natarajan-516a107/"
+  
+              }
+            }
+          },
+          {
+            "SessionId": "DEV6",
+            "Time": "3:30 PM - 4:30 PM",
+            "Title": "Microsoft Cortana Intelligence Suite",
+            "Room": "Microsoft Cortana Intelligence Suite",
+            "Speaker": {
+              "Name": "Priyanka Roy",
+              "Organization": "Intergen",
+              "Description": "I am passionate about solving business problems with technology. In my 13 years of international experience, I have helped businesses make better decisions and improve performance by unleashing the power of their data through Business Intelligence, Analytics and Data warehousing. My journey so far has taken me from implementing BI and DWH solutions using a range of technologies, to helping C-suite execs and senior stakeholders in designing their Information Management strategies",
+              "ImageUrl": "/images/Priyanka.jpg",
+              "Social": {
+  
+              }
+            }
+          },
+
+        {
+          "SessionId": "Common6",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "Closing & Lucky Draw"
+          "Title": "Wrap-up / Giveaways"
         }
       ]
     },
+
     {
-      "Name": "Azure PaaS",
+      "Name": "IT Pro Track",
       "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 10.00 AM",
+          "Title": "Registration / Welcome / Set Up"
+        },
+
+        {
+          "SessionId": "ITPRO1",
+          "Time": "10:00 AM - 11:30 AM",
+          "Title": "Getting STarted with Azure Administration",
+          "Room": "",
+          "Speaker": {
+            "Name": "Zahid Yaqub",
+            "Organization": "Microsoft MCT / Datacom",
+            "Description": "I have been working in IT industry for 11 years overall, 4 years in New Zealand and currently working in Datacom for 3 years as an Infrastructure Consultant. My expertise are in on-premises and cloud platforms, products and services which includes System Center, Virtualization, Messaging and Azure. I am also  Microsoft Certified trainer. ",
+            "ImageUrl": "/images/Zahid.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "LinkedIn": "https://www.linkedin.com/in/zahid-yaqub-mct-mcts-mcse-mcitp-itil-472565a/"
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "11:30 AM - 12:30 PM",
+          "Title": "Azure AD and Conditional Access in the real world",
+          "Room": "",
+          "Speaker": {
+            "Name": "Tony Murray",
+            "Organization": "Microsoft MVP / Identity Architect",
+            "Description": "",
+            "ImageUrl": "/images/Tony.jpg",
+            "Social": {
+              "Twitter": "https://twitter.com/MrTweetTastic",
+              "LinkedIn": "https://www.linkedin.com/in/tony-murray-smith-76909b1/"
+            }
+          }
+        },
+        
+        {
+          "SessionId": "Common4",
+          "Time": "12:30 PM - 1:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "1:30 PM - 2:30 PM",
+          "Title": "Security, Policies and governance in Azure",
+          "Room": "",
+          "Speaker": {
+            "Name": "Daniel Bowbyes",
+            "Organization": "Datacom",
+            "Description": "",
+            "ImageUrl": "/images/Daniel.jpg",
+            "Social": {
+              "Twitter": "https://twitter.com/DBowbyes",
+              "Website": "",
+              "LinkedIn": "https://www.linkedin.com/in/dbowbyes/"
+            }
+          }
+        },
+
+        {
+          "SessionId": "ITPRO5",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "Backup & DR in Azure",
+          "Room": "",
+          "Speaker": {
+            "Name": "Zahid Yaqub",
+            "Organization": "Datacom",
+            "Description": "I have been working in IT industry for 11 years overall, 4 years in New Zealand and currently working in Datacom for 3 years as an Infrastructure Consultant. My expertise are in on-premises and cloud platforms, products and services which includes System Center, Virtualization, Messaging and Azure. I am also  Microsoft Certified trainer. ",
+            "ImageUrl": "/images/Zahid.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "LinkedIn": "https://www.linkedin.com/in/zahid-yaqub-mct-mcts-mcse-mcitp-itil-472565a/"
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Operations Managemnet Suite",
+          "Room": "",
+          "Speaker": {
+            "Name": "Malcolm Jeffrey",
+            "Organization": "Auldhouse",
+            "Description": "",
+            "ImageUrl": "/images/Malcolm.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "LinkedIn": "https://www.linkedin.com/in/malcolmjeffrey/"
+            }
+          }
+        },
         
         {
           "SessionId": "Common6",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "Closing & Lucky Draw"
+          "Title": "Wrap-up / Giveaways"
         }
-
       ]
     }
+
+
+    
+
   ]
 }

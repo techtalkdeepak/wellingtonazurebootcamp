@@ -23,7 +23,8 @@ namespace bootcamp.Controllers
         {
             Configuration = configuration;
         }
-        public async Task<IActionResult> Index(string proxyUrl = @".\Res\Data.json")
+        //public async Task<IActionResult> Index(string proxyUrl = "https://github.com/punitganshani/azurebootcamp-data/raw/master/2017/locations/singapore/data.json")
+        public IActionResult Index(string proxyUrl = "~/Res/data.json")
         {
             var appSettings = Configuration.Value;
             string location = appSettings.Location;
@@ -33,12 +34,11 @@ namespace bootcamp.Controllers
             {
                 if (!string.IsNullOrEmpty(location))
                 {
-                    var url = String.Format(proxyUrl, location.ToLowerInvariant());
-                    var fileInfo=new FileInfo(url);
-                    var uri = new Uri(fileInfo.FullName);
-                    bool isLocalFile = uri.IsFile;
+                    /*var url = String.Format(proxyUrl, location.ToLowerInvariant());
+                    var uri = new Uri(url);
+                    bool isLocalFile = uri.IsFile;*/
 
-                    if (!isLocalFile)
+                    /*if (!isLocalFile)
                     {
                         using (HttpClient client = new HttpClient())
                         using (HttpResponseMessage response = await client.GetAsync(url))
@@ -49,17 +49,18 @@ namespace bootcamp.Controllers
                         }
 
                     }
-                    else
+                    else*/
                     {
-                        if (System.IO.File.Exists(url.ToString()))
+                        //if (System.IO.File.Exists(url))
                         {
-                            var contents = System.IO.File.ReadAllText(url);
+                            //var contents = System.IO.File.ReadAllText(url);
+                            var contents = System.IO.File.ReadAllText("Res/data.json");
                             locationInfo = JsonConvert.DeserializeObject<LocationInfo>(contents);
                         }
-                        else
+                        /*else
                         {
                             throw new FileNotFoundException("File not found at: " + url);
-                        }
+                        }*/
                     }
                 }
 
